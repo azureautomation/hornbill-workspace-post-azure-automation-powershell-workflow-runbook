@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 2880,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-workspace-post-azure-automation-powershell-workflow-runbook/master/Hornbill_WorkspacePost_Workflow.ps1",
+    "DownloadCount": 689,
+    "Id": "Hornbill-Workspace-Post-d64a1e21",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 514,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow Runbook to add a post to a workspace on a Hornbill Instance",
+    "Title": "Hornbill Workspace Post - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-workspace-post-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
